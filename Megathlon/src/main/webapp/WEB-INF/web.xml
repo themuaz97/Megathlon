@@ -100,6 +100,12 @@
   	<description></description>
   	<servlet-class>com.Megathlon.Controller.Logout</servlet-class>
   </servlet>
+  <servlet>
+  	<servlet-name>SuppliersList</servlet-name>
+  	<display-name>SuppliersList</display-name>
+  	<description></description>
+  	<servlet-class>com.Megathlon.Controller.SuppliersList</servlet-class>
+  </servlet>
    <servlet-mapping>
   	<servlet-name>Login</servlet-name>
   	<url-pattern>/Login</url-pattern>
@@ -163,5 +169,9 @@
    <servlet-mapping>
    	<servlet-name>Logout</servlet-name>
    	<url-pattern>/Logout</url-pattern>
+   </servlet-mapping>
+   <servlet-mapping>
+   	<servlet-name>SuppliersList</servlet-name>
+   	<url-pattern>/SuppliersList</url-pattern>
    </servlet-mapping>
 </web-app>
