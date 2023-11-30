@@ -11,7 +11,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Megahtlon IMS</title>
+<title>Suppliers</title>
 <link rel="icon" type="image/x-icon" href="img/me fav.png">
 <!-- Google Font: Source Sans Pro -->
 <link rel="stylesheet"

@@ -7,7 +7,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Product</title>
+<title>Products</title>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 <!-- Google Font: Source Sans Pro -->
 <link rel="stylesheet"
